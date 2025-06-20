@@ -10,5 +10,5 @@ A beginner-friendly Python script that scans a target IP or hostname for open po
 
 ## 🚀 How to Run
 
-```bash
+```bash.
 python3 port_scanner.py
